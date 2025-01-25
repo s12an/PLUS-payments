@@ -1,0 +1,15 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 오렌지색 P 모양 -->
+  <path d="M10,10 h20 v20 h-20 v20" stroke="#FF6B2B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M10,30 h20" stroke="#FF6B2B" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- 청록색 P 모양 -->
+  <path d="M35,10 h20 v20 h-20 v20" stroke="#00A0B0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M35,30 h20" stroke="#00A0B0" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- 로고 텍스트 -->
+  <text x="80" y="35" font-family="Arial" font-weight="bold" font-size="24">
+    <tspan fill="#FF6B2B">PLUS</tspan>
+    <tspan fill="#00A0B0">PAY</tspan>
+  </text>
+</svg> 
